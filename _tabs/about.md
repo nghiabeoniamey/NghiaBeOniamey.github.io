@@ -4,14 +4,33 @@ icon: fas fa-info-circle
 order: 4
 ---
 
-# Merhaba!
-
 <!-- ![About](/assets/img/headers/awscommunitybuilder.webp) -->
+<h1 align="center">Hi 👋, I'm Nghia. Call me Oniamey</h1>
+<h3 align="center">My major is software developer in FPT POLYTECHNIC. My goal is to become a Fullstack developer</h3>
 
-I'm Oniamey, `Backend Java Developer` and `AWS Content Creator` from London.
+- 🔭 I’m currently working on [Event Portal (Private Repo)](https://github.com/NghiaBeOniamey/setupcode)
 
-At Cloud Academy, my role involves designing, developing, and revising the production process and implementation of AWS content. My work spans a variety of AWS technologies, aiming to help student grasp how to effectively implement and configure AWS services.
+- 🌱 I’m currently learning **Java, React JS, TypeScript, JavaScript**
 
-Outside of work, I am passionate about building on AWS. I spend my time experimenting with different cloud services, integrating them to create fun and practical solutions. I document these solutions on this site and also share them through my YouTube channel: [Hands-On with Digital Den](https://www.youtube.com/channel/UCHoxUz0IfdhOieSXox_mwSw)
+- 🤝 Group project [Shop Oniamey](https://github.com/NghiaBeOniamey/Website-Oniamey)
 
-This documenation site is built using Jekyll, a static site generator with the Chirpy theme. The site is configured with GitHub Actions for automatic deployment to GitHub Pages whenever I push changes. A custom domain is established via a CNAME record pointing to `docs.digitalden.cloud`, making the site live and accessible on GitHub Pages. It's all open source, and you can view it here on [GitHub](https://github.com/digitalden3/digitalden3.github.io).
+- 🤝 Identity project [Identity (Private Repo)](https://github.com/NghiaBeOniamey/setupcode)
+
+- 📝 This is my CV [Trịnh Hiếu Nghĩa - Backend Developer Java - CV](https://www.topcv.vn/xem-cv/UldWBF0HA1ENAwUFVwcBUgEIBwYJBgQABwNVAwd2e6)
+
+- 👨‍💻 All of my projects are available at [Github](https://github.com/NghiaBeOniamey/)
+
+- 💬 I currently desire to obtain a job as a **Backend Developer**
+
+- 📫 How to reach me **nghiabe.dev@gmail.com**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://fb.com/https://www.facebook.com/nghia.pe.332" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/nghia.pe.332" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/https://www.youtube.com/@nghiabeoniamey" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/@nghiabeoniamey" height="30" width="40" /></a>
+</p>
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=nghiabeoniamey&show_icons=true&locale=en&layout=compact" alt="nghiabeoniamey" /></p>

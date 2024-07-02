@@ -1,11 +1,18 @@
 ---
 title: "Java OOP"
-date: 2024-07-02 08:00:00 - 0500
-categories: [ OOP, Java, Java OOP ]
-tags: [ OOP, Java, Java OOP ]
+description: >-
+  What is OOP?
+  Java - What are Classes and Objects?
+  Association - Aggregation - Composition.
+date: 2024-07-02 08:00:00 + 0700
+categories: [ OOP, Java ]
+tags: [ Java OOP ]
+pin: true
 image:
   path: /assets/img/headers/java/java-oop.png
-  # I don't have lqip: data:image/webp;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAGCAMAAADNLv/0AAAAmVBMVEW6wsiOnqmNnKqNnaqNnKmwucJjeIoMLkoIK0QHK0QHLEQGKkQEJ0IEJkMAIkBIXnFkeYsaOVMUNk0PMUoNMEoKLUgGKEQAIT9GXHBfdIcPM0gQNUgQM0wPMEwJK0YFJkQBI0AAID5fdIYKMEMJMUMJLkUGLUUDKEEHKEUFJ0RFW2+gq7RmeYVleYVleIVkdoZldoZjdYWNmaMIZDnWAAAAR0lEQVQIHWNgYGQCAWYWVgY2dg5OLm4eXj5+BgFBIWERUTFecQkGSSlpGVk5eQVFCQYlZRVVNXUNTUUtBm0dHV09fX0DQyMAdocFpbQkwGsAAAAASUVORK5CYII=
+  lqip: data:image/webp;base64,UklGRpoAAABXRUJQVlA4WAoAAAAQAAAADwAABwAAQUxQSDIAAAARL0AmbZurmr57yyIiqE8oiG0bejIYEQTgqiDA9vqnsUSI6H+oAERp2HZ65qP/VIAWAFZQOCBCAAAA8AEAnQEqEAAIAAVAfCWkAALp8sF8rgRgAP7o9FDvMCkMde9PK7euH5M1m6VWoDXf2FkP3BqV0ZYbO6NA/VFIAAAA
+  alt: object-oriented-programming-oop.
+media_subpath: '/posts/java/object-oriented-programming-in-java'
 ---
 
 # Object Oriented Programming In Java Specialization, Java OOP

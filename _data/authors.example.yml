@@ -1,0 +1,8 @@
+#<author_id>:
+#  name: <full name>
+#  twitter: <twitter_of_author>
+#  url: <homepage_of_author>
+#
+#  author: <author_id>                     # for single entry
+#  # or
+#  authors: [ <author1_id>, <author2_id> ]   # for multiple entries

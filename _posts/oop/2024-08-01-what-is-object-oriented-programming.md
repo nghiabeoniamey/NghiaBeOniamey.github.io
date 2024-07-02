@@ -1,11 +1,20 @@
 ---
 title: "Object Oriented Programming (OOP)"
-date: 2024-07-02 08:00:00 - 0500
-categories: [ OOP, What is, Meaning, Concepts, Benefits ]
-tags: [ OOP, Meaning, Concepts, Benefits ]
+description: >-
+  What is OOP?
+  Key Concepts of OOP.
+  Advantages of OOP.
+date: 2024-07-02 08:00:00 + 0700
+categories: [ OOP, What is ]
+tags: [ OOP ]
+pin: true
+math: true
+mermaid: true
 image:
-  path: /assets/img/headers/OOP/object-oriented-programming-oop.png
-  lqip: data:image/webp;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAGCAMAAADNLv/0AAAAmVBMVEW6wsiOnqmNnKqNnaqNnKmwucJjeIoMLkoIK0QHK0QHLEQGKkQEJ0IEJkMAIkBIXnFkeYsaOVMUNk0PMUoNMEoKLUgGKEQAIT9GXHBfdIcPM0gQNUgQM0wPMEwJK0YFJkQBI0AAID5fdIYKMEMJMUMJLkUGLUUDKEEHKEUFJ0RFW2+gq7RmeYVleYVleIVkdoZldoZjdYWNmaMIZDnWAAAAR0lEQVQIHWNgYGQCAWYWVgY2dg5OLm4eXj5+BgFBIWERUTFecQkGSSlpGVk5eQVFCQYlZRVVNXUNTUUtBm0dHV09fX0DQyMAdocFpbQkwGsAAAAASUVORK5CYII=
+  path: /assets/img/headers/oop/object-oriented-programming-oop.png
+  lqip: data:image/webp;base64,UklGRpoAAABXRUJQVlA4WAoAAAAQAAAADwAABwAAQUxQSDIAAAARL0AmbZurmr57yyIiqE8oiG0bejIYEQTgqiDA9vqnsUSI6H+oAERp2HZ65qP/VIAWAFZQOCBCAAAA8AEAnQEqEAAIAAVAfCWkAALp8sF8rgRgAP7o9FDvMCkMde9PK7euH5M1m6VWoDXf2FkP3BqV0ZYbO6NA/VFIAAAA
+  alt: object-oriented-programming-oop.
+media_subpath: '/posts/oop/what-is-object-oriented-programming'
 ---
 
 # What Is OOP (Object Oriented Programming)? Meaning, Concepts, and Benefits
@@ -166,21 +175,20 @@ it provides:
 1. Enables code reusability
    The idea of inheritance is one of the critical concepts offered by object-oriented programming. A class’s attributes
    can be passed down through inheritance, eliminating the need for duplication of effort. Doing this prevents the
-   problems associated with repeatedly writing the same code.
-
-Thanks to introducing the idea of classes, the code section can be used as many times as necessary in the program. A
-child class that uses the inheritance method inherits the parent class’s fields and methods. One can readily alter the
-parent class’s available methods and values.
+   problems associated with repeatedly writing the same code. Thanks to introducing the idea of classes, the code
+   section can be used as many times as necessary in the program. A
+   child class that uses the inheritance method inherits the parent class’s fields and methods. One can readily alter
+   the
+   parent class’s available methods and values.
 
 2. Increases productivity in software development
    We can create programs from pre-written, interconnected modules rather than having to start from scratch, which would
    save time and increase productivity. Thanks to the OOP language, we can break the software into manageable, discrete
    problems. Because it allows for the division of labor in the creation of object-based programs, object-oriented
-   programming is modular.
-
-It is also extendable, as you may add new characteristics and actions to objects. One can utilize objects in several
-applications. Object-oriented programming increases software development productivity, compared to conventional
-procedure-based programming techniques, due to modularity, extensibility, and reusability.
+   programming is modular. It is also extendable, as you may add new characteristics and actions to objects. One can
+   utilize objects in several
+   applications. Object-oriented programming increases software development productivity, compared to conventional
+   procedure-based programming techniques, due to modularity, extensibility, and reusability.
 
 3. Makes troubleshooting simpler
    When object-oriented programming is used, troubleshooting is made simpler since the user knows where to look in the
@@ -195,73 +203,68 @@ procedure-based programming techniques, due to modularity, extensibility, and re
    maintain [application security](https://www.spiceworks.com/it-security/application-security/articles/what-is-application-security-definition-best-practices/)
    and provide vital data for viewing, we are filtering out limited data through data hiding and abstraction mechanisms.
    The concept of data abstraction in OOPS allows only a small amount of data to be displayed to the user, which is one
-   of OOP’s strong points.
-
-When only the necessary info is accessible, the rest is not. As a result, it makes security maintenance possible.
-Another set of OOP’s advantages in Java’s idea of abstraction is used to conceal complexity from other users and display
-the element’s information per the requirements.
+   of OOP’s strong points.When only the necessary info is accessible, the rest is not. As a result, it makes security
+   maintenance possible.
+   Another set of OOP’s advantages in Java’s idea of abstraction is used to conceal complexity from other users and
+   display
+   the element’s information per the requirements.
 
 5. Simplifies code maintenance
    Object-oriented software is simpler to maintain in terms of code. Because of the design’s modularity, one can upgrade
    a portion of the system in the event of problems without calling for significant adjustments. Additionally, you can
-   modify already-existing objects to create new ones.
-
-Any programming language would benefit from having this capability; it prevents users from having to redo work in a
-variety of ways. Maintaining and updating the current codes by adding new changes is always simple and time-saving.
-Since one can produce new objects with just minor variations from old ones, it is simple to maintain and modify current
-code.
-
-See
-More: [Top 10 DevOps Automation Tools in 2021](https://www.spiceworks.com/tech/devops/articles/devops-automation-tools/)
+   modify already-existing objects to create new ones. Any programming language would benefit from having this
+   capability; it prevents users from having to redo work in a
+   variety of ways. Maintaining and updating the current codes by adding new changes is always simple and time-saving.
+   Since one can produce new objects with just minor variations from old ones, it is simple to maintain and modify
+   current
+   code.
+   See
+   More: [Top 10 DevOps Automation Tools in 2021](https://www.spiceworks.com/tech/devops/articles/devops-automation-tools/)
 
 6. Prevents the repetition of data
    Redundant data refers to data that has been duplicated. As a result, the same information is repeated. The redundancy
    of the data is seen as a benefit in object-oriented programming. For instance, the user would like the capability
-   comparable to that of practically all classes.
-
-In such circumstances, the user can construct classes with comparable functionality and inherit them when necessary. A
-significant benefit of OOP is the redundancy of data. Users who want a comparable feature in numerous classes can write
-standard class definitions for those features and inherit them.
+   comparable to that of practically all classes. In such circumstances, the user can construct classes with comparable
+   functionality and inherit them when necessary. A
+   significant benefit of OOP is the redundancy of data. Users who want a comparable feature in numerous classes can
+   write
+   standard class definitions for those features and inherit them.
 
 7. Results in flexible code
    Polymorphism is the idea that allows for flexibility. The following advantages of polymorphism for developers are
    extensibility and simplicity. One advantage of OOP is polymorphism, which allows a piece of code to exist in more
-   than one version. For instance, you might act differently if the setting or environment changes.
-
-Let us look at a simple example. In a market, a person will act like a customer; in a school, a person will act like a
-student; and in a home, a person will act like a son or daughter. Here, the same person exhibits various behaviors
-depending on the environment.
+   than one version. For instance, you might act differently if the setting or environment changes. Let us look at a
+   simple example. In a market, a person will act like a customer; in a school, a person will act like a
+   student; and in a home, a person will act like a son or daughter. Here, the same person exhibits various behaviors
+   depending on the environment.
 
 8. Addresses issues early on
    Another benefit of object-oriented programming is that it may effectively solve problems by being divided into
    smaller components. It becomes good programming practice to deconstruct a complex issue into simpler parts or
    components. Given this information, OOPS uses a feature that divides the program code into smaller, more manageable
-   chunks developed one at a time.
-
-Once the issue has been disassembled, you can put the individual pieces to use again to address additional problems.
-Additionally, *one might use the modules with the same interface and implementation details to replace the more minor
-codes.
+   chunks developed one at a time. Once the issue has been disassembled, you can put the individual pieces to use again
+   to address additional problems.
+   Additionally, *one might use the modules with the same interface and implementation details to replace the more minor
+   codes.
 
 9. Provides design advantages
    A significant development in software engineering has been object-oriented development. Among other things, it
    promises to shorten development duration and give firms a competitive advantage. The design benefit that users will
    experience from OOPs is the ease with which they can design and fix things and the reduction of hazards, if any.
-
-Here, object-oriented programs require a lengthy and thorough design phase from the designers, which produces better
-designs with fewer faults. It is simpler to program all the non-OOPs independently after a certain point when the
-program has hit some fundamental constraints.
+   Here, object-oriented programs require a lengthy and thorough design phase from the designers, which produces better
+   designs with fewer faults. It is simpler to program all the non-OOPs independently after a certain point when the
+   program has hit some fundamental constraints.
 
 10. Lowers development costs
     Using an object-oriented approach does make it possible to cut back on some of the direct costs involved with
     systems, including maintenance and development. Reusing software also reduces the price of development. In most
     cases, more time and effort are spent on object-oriented analysis and design, reducing the overall development cost.
-
-The general cost of the improvement is reduced since more effort is typically put into the article-specific assessment
-and plan. The development cost is generally reduced since more time and effort are usually spent on object-oriented
-analysis and design.
-
-See
-More: [DevOps vs. Agile Methodology: Key Differences and Similarities](https://www.spiceworks.com/tech/devops/articles/devops-vs-agile/)
+    The general cost of the improvement is reduced since more effort is typically put into the article-specific
+    assessment
+    and plan. The development cost is generally reduced since more time and effort are usually spent on object-oriented
+    analysis and design.
+    See
+    More: [DevOps vs. Agile Methodology: Key Differences and Similarities](https://www.spiceworks.com/tech/devops/articles/devops-vs-agile/)
 
 ## Takeaway
 
@@ -272,5 +275,7 @@ resolve them through more innovative code. As you learn new languages and use co
 suites, knowledge of OOP can prove instrumental to skill development.
 
 # Author by [Chiradeep BasuMallick](https://www.spiceworks.com/user/about/chiradeepbasumallick/)
+
 # Article on [What Is OOP](https://www.spiceworks.com/tech/devops/articles/object-oriented-programming/)
+
 # Copy Article [NghiaBeOniamey](https://www.facebook.com/nghia.pe.332/)

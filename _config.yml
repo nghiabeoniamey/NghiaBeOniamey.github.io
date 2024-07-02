@@ -16,14 +16,13 @@ timezone: Asia/Saigon
 
 title: Nuna Oniamey # the main title
 
-tagline: I am a student about to graduate in software development at FPT Polytechnic College # it will display as the sub-title
+tagline: I am a graduating student in software development at FPT Polytechnic # it will display as the sub-title
 
-description: >-                        # used by seo meta and the atom feed
-  DigitalDenCloud - Documentation and More
+description: NghiaBeOniamey - Documentation and More # used by seo meta and the atom feed
 
 # Fill in the protocol & hostname for your site.
 # e.g. 'https://username.github.io', note that it does not end with a '/'.
-url: "https:/NghiaBeOniamey.SimpleLove"
+url: "https://NghiaBeOniamey.github.io"
 
 github:
   username: NghiaBeOniamey # change to your GitHub username
@@ -40,7 +39,7 @@ social:
     # The first element serves as the copyright owner's link
     #    - https://twitter.com/username # change to your Twitter homepage
     - https://github.com/NghiaBeOniamey # change to your GitHub homepage
-      # Uncomment below to add more social links
+    # Uncomment below to add more social links
     - https://www.facebook.com/NghiaBeOniamey
     - https://www.youtube.com/@NghiaBeOniamey
     - https://www.tiktok.com/@nghiabeoniamey
@@ -163,7 +162,7 @@ defaults:
   - scope:
       path: _drafts
     values:
-      comments: false
+      comments: true
   - scope:
       path: ""
       type: tabs # see `site.collections`
